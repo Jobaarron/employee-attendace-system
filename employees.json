@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Misenas Job Aarron",
+    "employee_id": 1001,
+    "attendance": {},
+    "leave_requests": [],
+    "leave_status": {}
+  },
+  {
+    "name": "Ruiz Jeremy",
+    "employee_id": 1002,
+    "attendance": {},
+    "leave_requests": [],
+    "leave_status": {}
+  },
+  {
+    "name": "Lewis Cat",
+    "employee_id": 1,
+    "attendance": {},
+    "leave_requests": [],
+    "leave_status": {}
+  },
+  {
+    "name": "Frank J. Castle",
+    "employee_id": 2,
+    "attendance": {},
+    "leave_requests": [],
+    "leave_status": {}
+  },
+  {
+    "name": "Stephen J. Rock",
+    "employee_id": 3,
+    "attendance": {},
+    "leave_requests": [],
+    "leave_status": {}
+  },
+  {
+    "name": "Nigel Yokoyama",
+    "employee_id": 4,
+    "attendance": {},
+    "leave_requests": [],
+    "leave_status": {}
+  },
+  {
+    "name": "Greg J. Rock",
+    "employee_id": 5,
+    "attendance": {},
+    "leave_requests": [],
+    "leave_status": {}
+  },
+  {
+    "name": "Zach Chambers",
+    "employee_id": 6,
+    "attendance": {},
+    "leave_requests": [],
+    "leave_status": {}
+  },
+  {
+    "name": "Jacob Schamens",
+    "employee_id": 7,
+    "attendance": {},
+    "leave_requests": [],
+    "leave_status": {}
+  },
+  {
+    "name": "Gian Patrick Victoriano",
+    "employee_id": 8,
+    "attendance": {},
+    "leave_requests": [],
+    "leave_status": {}
+  },
+  {
+    "name": "John Matthew Perez",
+    "employee_id": 9,
+    "attendance": {},
+    "leave_requests": [],
+    "leave_status": {}
+  },
+  {
+    "name": "John Ramcel Solis",
+    "employee_id": 10,
+    "attendance": {},
+    "leave_requests": [],
+    "leave_status": {}
+  },
+  {
+    "name": "Carl Justine Butiong",
+    "employee_id": 11,
+    "attendance": {},
+    "leave_requests": [],
+    "leave_status": {}
+  },
+  {
+    "name": "Michael Ramos",
+    "employee_id": 12,
+    "attendance": {},
+    "leave_requests": [],
+    "leave_status": {}
+  },
+  {
+    "name": "Melvin Felicisimo",
+    "employee_id": 13,
+    "attendance": {},
+    "leave_requests": [],
+    "leave_status": {}
+  },
+  {
+    "name": "Bryan Russel Rosel",
+    "employee_id": 14,
+    "attendance": {},
+    "leave_requests": [],
+    "leave_status": {}
+  },
+  {
+    "name": "Hanzo Aizukotetsu",
+    "employee_id": 15,
+    "attendance": {},
+    "leave_requests": [],
+    "leave_status": {}
+  }
+]
